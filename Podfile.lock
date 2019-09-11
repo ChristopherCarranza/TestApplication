@@ -1,0 +1,42 @@
+PODS:
+  - Dip (7.0.1)
+  - Dwifft (0.9)
+  - Fakery (4.1.1)
+  - RxCocoa (5.0.0):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.0.0):
+    - RxSwift (~> 5)
+  - RxSwift (5.0.0)
+  - UITableViewPresentation (1.0.0):
+    - Dwifft (= 0.9.0)
+
+DEPENDENCIES:
+  - Dip
+  - Fakery
+  - RxCocoa (~> 5)
+  - RxSwift (~> 5)
+  - UITableViewPresentation
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Dip
+    - Dwifft
+    - Fakery
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - UITableViewPresentation
+
+SPEC CHECKSUMS:
+  Dip: 79509d5dc4f648e10e922ed79c608a7761c52b13
+  Dwifft: 42912068ed2a8146077d1a1404df18625bd086e1
+  Fakery: d3380c4aa1efe7631c0831d7e26aa9db4491f014
+  RxCocoa: fcf32050ac00d801f34a7f71d5e8e7f23026dcd8
+  RxRelay: 4f7409406a51a55cd88483f21ed898c234d60f18
+  RxSwift: 8b0671caa829a763bbce7271095859121cbd895f
+  UITableViewPresentation: 6db093438004a8fe767122a9642b9c6dccbc3242
+
+PODFILE CHECKSUM: 3b178724075b92b8e27e755f77702d32f11ac79e
+
+COCOAPODS: 1.7.5
